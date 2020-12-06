@@ -453,10 +453,7 @@ nav {
   padding-top: 12px;
 }
 
-.footer-soc h2 {
-  margin: 0;
-
-  font-weight: 700;
+.footer-soc b {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
